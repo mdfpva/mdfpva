@@ -45,12 +45,14 @@
 | [**42-LIBFT**](https://github.com/mdfpva/42-LIBFT) | My own C standard library — the foundation every later 42 project builds on | C · pointers · memory management |
 | [**42-PRINTF**](https://github.com/mdfpva/42-PRINTF) | `printf()` rebuilt from scratch, with recursive, buffer-free numeric output | C · variadic functions · recursion |
 | [**42-GET_NEXT_LINE**](https://github.com/mdfpva/42-GET_NEXT_LINE) | Reads a line from any file descriptor, one call at a time | C · static variables · buffer management |
-| [**42-PYTHON_MODULES**](https://github.com/mdfpva/42-PYTHON_MODULES) | The full 42 Python Piscine — 11 modules from OOP to decorators and functional programming, each fully documented | Python · flake8 · mypy |
+| [**42-PUSH_SWAP**](https://github.com/mdfpva/42-PUSH_SWAP) | Sorting numbers between two stacks in the fewest possible moves | C · algorithms · complexity |
 | [**push_swap_tester**](https://github.com/mdfpva/push_swap_tester) | Test suite I wrote for push_swap: 41 automated checks covering build, code style, error handling and performance | Bash · testing · automation |
+| [**42-BORN2BEROOT**](https://github.com/mdfpva/42-BORN2BEROOT) | A Debian server set up, secured and documented from scratch in VirtualBox | Linux · sysadmin · security |
+| [**42-PYTHON_MODULES**](https://github.com/mdfpva/42-PYTHON_MODULES) | The full 42 Python Piscine — 11 modules from OOP to decorators and functional programming, each fully documented | Python · flake8 · mypy |
 
-🔨 **Currently building:** `push_swap` — sorting numbers between two stacks in the fewest possible moves. My version embeds four strategies in one binary — O(n²) greedy insertion, O(n√n) chunk sort, O(n log n) radix — plus an adaptive mode that measures the input's disorder and picks the best algorithm for it. Repo coming soon.
+🔨 **Project spotlight:** [`push_swap`](https://github.com/mdfpva/42-PUSH_SWAP) embeds four sorting strategies in one binary — O(n²) greedy insertion, O(n√n) chunk sort, O(n log n) radix — plus an adaptive mode that measures the input's disorder and picks the best algorithm for it, with a built-in benchmark mode.
 
-🎓 **Curriculum highlights so far:** Libft · ft_printf · get_next_line · Born2beRoot (Debian server setup & hardening) · Python Piscine · push_swap *(in progress)*
+🎓 **Curriculum highlights so far:** Libft · ft_printf · get_next_line · Born2beRoot (Debian server setup & hardening) · push_swap · Python Piscine
 
 ---
 
